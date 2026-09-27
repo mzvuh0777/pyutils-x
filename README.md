@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 # pyutils
 
 A collection of handy Python utility scripts for everyday development tasks.
