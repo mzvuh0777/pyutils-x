@@ -34,3 +34,8 @@ print(file_size("/path/to/file"))
 ## License
 
 MIT
+## FAQ
+
+**Q: Where does the config come from?**
+
+A: `config_loader.load_config()` merges JSON over defaults.
