@@ -1,3 +1,4 @@
+# Type hints added for clarity
 # SPDX-License-Identifier: MIT
 # pyutils
 
